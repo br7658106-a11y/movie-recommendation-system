@@ -59,7 +59,7 @@ recommend("Toy Story (1995)")
 (![Output](Screenshot 2026-04-28 144100.png))
 
 ## 🔗 Project Link
-(Add GitHub link here after uploading)
+(Add GitHub https://github.com/br7658106-a11y/movie-recommendation-system)
 
 ## 📌 Future Scope
 - Web app using Streamlit
