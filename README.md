@@ -56,7 +56,7 @@ To build an intelligent system that:
 recommend("Toy Story (1995)")
 
 ## 📷 Output
-(![Output](screenshots/output.png))
+(![Output](Screenshot 2026-04-28 144100.png))
 
 ## 🔗 Project Link
 (Add GitHub link here after uploading)
