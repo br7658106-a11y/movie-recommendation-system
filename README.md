@@ -1,5 +1,7 @@
 # 🎬 Movie Recommendation System (AI Project)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GvA7whHGZRm8IknW8b6703bIAr8v6g27?usp=sharing)
+
 ## 🚀 Project Overview
 This project is an Artificial Intelligence-based Movie Recommendation System that suggests movies to users based on similarity scores using machine learning techniques.
 
@@ -52,3 +54,13 @@ To build an intelligent system that:
 4. Call:
 ```python
 recommend("Toy Story (1995)")
+
+## 📷 Output
+(Add screenshot here)
+
+## 🔗 Project Link
+(Add GitHub link here after uploading)
+
+## 📌 Future Scope
+- Web app using Streamlit
+- Personalized recommendations
